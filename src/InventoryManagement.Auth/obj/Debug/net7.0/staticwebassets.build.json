@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rtbeXqRWenh35SLt7AYoUOi7kmcr8FvwQnS0YuLKkbc=",
+  "Source": "InventoryManagement.auth",
+  "BasePath": "_content/InventoryManagement.auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

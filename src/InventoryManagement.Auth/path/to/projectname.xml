@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InventoryManagement.auth</name>
+    </assembly>
+    <members>
+        <member name="P:InventoryManagement.Auth.Contracts.Request.UserFilterContract.Firstname">
+            <summary> Filters the users by their Firstname, example- Nimit, Rajat, etc.</summary>
+        </member>
+        <member name="P:InventoryManagement.Auth.Contracts.Request.UserFilterContract.Lastname">
+            <summary> Filters the users by their Lastname, example- Didwania, Goel, etc.</summary>
+        </member>
+        <member name="P:InventoryManagement.Auth.Contracts.Request.UserFilterContract.Address">
+            <summary> Filters the users by their Address, example- Lucknow, Delhi, etc.</summary>
+        </member>
+        <member name="P:InventoryManagement.Auth.Contracts.Request.UserFilterContract.Age">
+            <summary> Filters the users by their Age, example- 20, 21, etc.</summary>
+        </member>
+        <member name="M:InventoryManagement.auth.Controllers.UserController.registerConsumer(InventoryManagement.Auth.Contracts.Request.UserRequestContract)">
+            <summary> Register a new user. </summary>
+        </member>
+        <member name="M:InventoryManagement.auth.Controllers.UserController.Login(InventoryManagement.Auth.Contracts.Request.LoginRequestContract)">
+            <summary> Login with existing userId and password to get the token. </summary>
+        </member>
+        <member name="M:InventoryManagement.auth.Controllers.UserController.validate">
+            <summary> To validate a token. (Used by external API to validate the token) </summary>
+        </member>
+        <member name="M:InventoryManagement.auth.Controllers.UserController.GetAllUsers(InventoryManagement.Auth.Contracts.Request.UserFilterContract)">
+            <summary> Lists all the users </summary>
+        </member>
+        <member name="M:InventoryManagement.auth.Controllers.UserController.GetByUserId(System.String)">
+            <summary> Get a user by its userId.</summary>
+        </member>
+        <member name="M:InventoryManagement.auth.Controllers.UserController.Delete(System.String)">
+            <summary> Delete a user by its userId.</summary>
+        </member>
+        <member name="M:InventoryManagement.auth.Controllers.UserController.Update(InventoryManagement.Auth.Contracts.Request.UpdateUserRequestContract,System.String)">
+            <summary> Update a user's information. </summary>
+        </member>
+    </members>
+</doc>

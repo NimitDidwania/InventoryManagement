@@ -1,0 +1,636 @@
+
+09-04-2023 21:04:33
+Unauthorized 401
+
+
+09-04-2023 21:04:33
+Unauthorized 401
+
+
+09-04-2023 21:04:43
+Unauthorized 401
+
+
+10-04-2023 10:18:47
+Unauthorized 401
+
+
+10-04-2023 10:18:48
+Unauthorized 401
+
+
+10-04-2023 10:18:52
+Unauthorized 401
+
+
+10-04-2023 10:38:37
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+10-04-2023 10:38:48
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+10-04-2023 12:06:49
+Unauthorized 401
+
+
+10-04-2023 12:12:21
+Unauthorized 401
+
+
+10-04-2023 12:13:11
+Unauthorized 401
+
+
+10-04-2023 12:18:03
+Unauthorized 401
+
+
+10-04-2023 12:27:34
+Unauthorized 401
+
+
+10-04-2023 13:13:53
+Unauthorized 401
+
+
+10-04-2023 16:13:01
+Invalid object name 'Users'.
+Core Microsoft SqlClient Data Provider
+
+10-04-2023 16:16:21
+The entity type 'UserDbo' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+Microsoft.EntityFrameworkCore
+
+10-04-2023 16:18:27
+The entity type 'UserDbo' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+Microsoft.EntityFrameworkCore
+
+10-04-2023 16:19:24
+Unauthorized 401
+
+
+10-04-2023 16:19:25
+Unauthorized 401
+
+
+10-04-2023 16:19:38
+The entity type 'UserDbo' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+Microsoft.EntityFrameworkCore
+
+10-04-2023 16:20:48
+The entity type 'UserDbo' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+Microsoft.EntityFrameworkCore
+
+10-04-2023 16:21:30
+The entity type 'UserDbo' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+Microsoft.EntityFrameworkCore
+
+10-04-2023 16:52:11
+Unauthorized 401
+
+
+10-04-2023 16:52:13
+Unauthorized 401
+
+
+10-04-2023 17:02:30
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+10-04-2023 17:03:34
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+10-04-2023 17:05:27
+Unauthorized 401
+
+
+10-04-2023 17:05:27
+Unauthorized 401
+
+
+10-04-2023 17:05:58
+Unauthorized 401
+
+
+10-04-2023 17:05:58
+Unauthorized 401
+
+
+10-04-2023 17:06:07
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+10-04-2023 17:09:07
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+10-04-2023 17:13:04
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+10-04-2023 17:48:17
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+10-04-2023 17:59:42
+Bad Request 400
+InventoryManagement.Common
+
+10-04-2023 18:01:27
+Bad Request 400
+InventoryManagement.Common
+
+10-04-2023 18:02:24
+Unauthorized 401
+
+
+10-04-2023 18:02:26
+Unauthorized 401
+
+
+10-04-2023 18:05:13
+A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
+Core Microsoft SqlClient Data Provider
+
+10-04-2023 18:07:14
+Bad Request 400
+InventoryManagement.Common
+
+10-04-2023 18:08:16
+Unauthorized 401
+
+
+10-04-2023 18:08:18
+Unauthorized 401
+
+
+10-04-2023 18:09:51
+A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
+Core Microsoft SqlClient Data Provider
+
+10-04-2023 18:11:57
+Bad Request 400
+InventoryManagement.Common
+
+10-04-2023 18:14:25
+An error occurred while saving the entity changes. See the inner exception for details.
+Microsoft.EntityFrameworkCore.Relational
+
+10-04-2023 18:20:31
+Bad Request 400
+InventoryManagement.Common
+
+11-04-2023 01:15:56
+Unauthorized 401
+
+
+11-04-2023 01:15:56
+Unauthorized 401
+
+
+11-04-2023 01:16:00
+Unauthorized 401
+
+
+11-04-2023 10:07:54
+Unauthorized 401
+
+
+11-04-2023 10:07:55
+Unauthorized 401
+
+
+11-04-2023 13:57:19
+Not Found 404
+InventoryManagement.Common
+
+11-04-2023 13:59:08
+Not Found 404
+InventoryManagement.Common
+
+11-04-2023 14:03:21
+Not Found 404
+InventoryManagement.Common
+
+11-04-2023 14:04:40
+Not Found 404
+InventoryManagement.Common
+
+11-04-2023 14:05:39
+Not Found 404
+InventoryManagement.Common
+
+11-04-2023 14:08:10
+Not Found 404
+InventoryManagement.Common
+
+11-04-2023 14:08:39
+Not Found 404
+InventoryManagement.Common
+
+11-04-2023 14:09:00
+Not Found 404
+InventoryManagement.Common
+
+11-04-2023 14:46:04
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+11-04-2023 14:46:47
+Attempted to perform an unauthorized operation.
+InventoryManagement.Api
+
+12-04-2023 12:58:20
+Unauthorized 401
+
+
+12-04-2023 13:05:57
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 13:12:05
+Attempted to perform an unauthorized operation.
+InventoryManagement.auth
+
+12-04-2023 13:42:42
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 13:43:42
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 13:43:45
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 13:43:55
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 13:44:48
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 13:44:49
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 13:53:03
+An error occurred while saving the entity changes. See the inner exception for details.
+Microsoft.EntityFrameworkCore.Relational
+
+12-04-2023 14:02:16
+Bad Request 400
+InventoryManagement.Api
+
+12-04-2023 14:03:32
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 14:03:32
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 14:04:05
+Bad Request 400
+InventoryManagement.Api
+
+12-04-2023 14:06:46
+Bad Request 400
+InventoryManagement.Api
+
+12-04-2023 14:10:12
+Bad Request 400
+InventoryManagement.Api
+
+12-04-2023 14:17:21
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 14:28:23
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 14:29:18
+Exception of type 'InventoryManagement.Common.CustomExceptions.EntityNotFoundException' was thrown.
+InventoryManagement.Api
+
+12-04-2023 14:29:55
+An error occurred while saving the entity changes. See the inner exception for details.
+Microsoft.EntityFrameworkCore.Relational
+
+12-04-2023 14:33:08
+An error occurred while saving the entity changes. See the inner exception for details.
+Microsoft.EntityFrameworkCore.Relational
+
+12-04-2023 15:31:27
+Exception of type 'InventoryManagement.Common.CustomExceptions.BadRequestException' was thrown.
+InventoryManagement.auth
+
+12-04-2023 15:42:40
+stdsring
+
+
+12-04-2023 15:46:54
+stdsring
+
+
+12-04-2023 16:46:03
+Attempted to perform an unauthorized operation.
+InventoryManagement.auth
+
+12-04-2023 16:46:25
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 16:47:05
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 17:50:56
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 17:52:00
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 17:52:01
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 17:52:52
+Attempted to perform an unauthorized operation.
+
+
+12-04-2023 17:52:53
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 03:08:47
+An error occurred while saving the entity changes. See the inner exception for details.
+Microsoft.EntityFrameworkCore.Relational
+
+13-04-2023 09:59:27
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 09:59:27
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 09:59:38
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 16:46:11
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 16:46:14
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 16:58:06
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 16:58:08
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:01:44
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:20:55
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:20:57
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:24:06
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:29:41
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:29:43
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:33:03
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:36:26
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:37:53
+Attempted to perform an unauthorized operation.
+InventoryManagement.auth
+
+13-04-2023 17:41:33
+Attempted to perform an unauthorized operation.
+InventoryManagement.auth
+
+13-04-2023 17:43:08
+Attempted to perform an unauthorized operation.
+InventoryManagement.auth
+
+13-04-2023 17:44:17
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 17:51:11
+5f5d1827-f458-4fa0-ae0d-015e8a3965ec
+
+
+13-04-2023 18:38:56
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 18:39:00
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 18:43:42
+Exception of type 'InventoryManagement.Common.CustomExceptions.EntityNotFoundException' was thrown.
+
+
+13-04-2023 19:01:37
+Attempted to perform an unauthorized operation.
+InventoryManagement.auth
+
+13-04-2023 19:01:44
+Attempted to perform an unauthorized operation.
+InventoryManagement.auth
+
+13-04-2023 19:03:07
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 19:15:46
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 19:16:47
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 19:18:49
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 22:47:48
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 22:47:55
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 22:48:22
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 22:48:59
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 22:52:18
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 22:56:56
+Exception of type 'InventoryManagement.Common.CustomExceptions.BadRequestException' was thrown.
+InventoryManagement.auth
+
+13-04-2023 22:57:18
+Exception of type 'InventoryManagement.Common.CustomExceptions.BadRequestException' was thrown.
+InventoryManagement.auth
+
+13-04-2023 23:07:03
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:26:28
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:27:12
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:28:26
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:28:28
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:34:47
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:35:37
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:35:38
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:44:23
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:44:27
+Attempted to perform an unauthorized operation.
+
+
+13-04-2023 23:46:36
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJDb25zdW1lciIsInN1YiI6ImNiNDA2NmY4LTViOWEtNGJkNC04NzA0LWE2Yjk0NGIyZjgyZCIsImV4cCI6MTY4MTQ5NTUxNCwiaXNzIjoiTmltaXQgRGlkd2FuaWEifQ.eBOJ8uqTGf0pp2yj10GM7BDyKiA6yH1V3c1BA66hFZU
+
+
+14-04-2023 10:26:03
+Attempted to perform an unauthorized operation.
+
+
+14-04-2023 10:26:03
+Attempted to perform an unauthorized operation.
+
+
+14-04-2023 10:26:10
+Attempted to perform an unauthorized operation.
+
+
+14-04-2023 20:50:54
+Attempted to perform an unauthorized operation.
+
+
+14-04-2023 20:51:04
+Attempted to perform an unauthorized operation.
+
+
+14-04-2023 20:53:42
+Attempted to perform an unauthorized operation.
+
+
+15-04-2023 12:52:23
+Attempted to perform an unauthorized operation.
+
+
+15-04-2023 12:52:23
+Attempted to perform an unauthorized operation.
+
+
+15-04-2023 12:55:53
+Attempted to perform an unauthorized operation.
+
+
+17-04-2023 11:12:21
+Attempted to perform an unauthorized operation.
+
+
+17-04-2023 11:15:33
+Attempted to perform an unauthorized operation.
+
+
+17-04-2023 16:08:07
+Attempted to perform an unauthorized operation.
+
+
+17-04-2023 16:43:31
+Attempted to perform an unauthorized operation.
+
+
+17-04-2023 16:48:14
+Attempted to perform an unauthorized operation.
+InventoryManagement.auth
+
+17-04-2023 17:18:53
+Attempted to perform an unauthorized operation.
+
+
+17-04-2023 18:33:27
+Attempted to perform an unauthorized operation.
+
+
+26-04-2023 16:37:29
+Attempted to perform an unauthorized operation.
+
+
+26-04-2023 16:37:30
+Attempted to perform an unauthorized operation.
+

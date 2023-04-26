@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InventoryManagement.Api</name>
+    </assembly>
+    <members>
+        <member name="P:InventoryManagement.Api.Contracts.Request.ProductFilterContract.Name">
+            <summary>Products will be filtered by their Name. Example- Shirt, Pant, etc.</summary>
+        </member>
+        <member name="P:InventoryManagement.Api.Contracts.Request.ProductFilterContract.Size">
+            <summary>Products will be filtered by their Size. Example- M, L, XL, etc.</summary>
+        </member>
+        <member name="P:InventoryManagement.Api.Contracts.Request.ProductFilterContract.MinPrice">
+            <summary>Products will be filtered by their Minimum Price. Example- 200, 1000, etc.</summary>
+        </member>
+        <member name="P:InventoryManagement.Api.Contracts.Request.ProductFilterContract.MaxPrice">
+            <summary>Products will be filtered by their Maximum Price. Example- 200, 1000, etc.</summary>
+        </member>
+        <member name="M:InventoryManagement.Api.Controllers.InventoryController.AllProducts(InventoryManagement.Api.Contracts.Request.ProductFilterContract)">
+            <summary> List all the product </summary>
+             <returns>The list of users.</returns>
+        </member>
+        <member name="M:InventoryManagement.Api.Controllers.InventoryController.FetchProductById(System.String)">
+            <summary>
+            Get Product by its ProductId
+            </summary>
+            <param name="productId"> Write the Product Id of the product you want to get.</param>
+        </member>
+        <member name="M:InventoryManagement.Api.Controllers.InventoryController.AddNewProduct(InventoryManagement.Api.Contracts.ProductReqContract)">
+            <summary> Add a new product </summary>
+        </member>
+        <member name="M:InventoryManagement.Api.Controllers.InventoryController.Update(InventoryManagement.Api.Contracts.Request.UpdateProductReqContract)">
+            <summary> Update a product </summary>
+        </member>
+        <member name="M:InventoryManagement.Api.Controllers.InventoryController.Delete(System.String)">
+            <summary> Delete a product by its ProductId</summary>
+            <param name="productId"> Write the Product Id of the product you want to delete.</param>
+        </member>
+        <member name="M:InventoryManagement.Api.Controllers.InventoryController.GetAllOrders">
+            <summary>
+            Get all the orders.
+            </summary>
+        </member>
+        <member name="M:InventoryManagement.Api.Controllers.InventoryController.GetOrderById(System.String)">
+            <summary>
+            Get an order of a particular orderId
+            </summary>
+             <param name= "orderId"> Enter the orderId of the order you want to get.</param>
+        </member>
+        <member name="M:InventoryManagement.Api.Controllers.InventoryController.Buy(InventoryManagement.Api.Contracts.Request.OrderReqContract)">
+            <summary>
+            To buy a product
+            </summary>
+        </member>
+    </members>
+</doc>
